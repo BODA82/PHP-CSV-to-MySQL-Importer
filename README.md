@@ -1,5 +1,5 @@
-# PHP-CSV-to-MySQL-Converter
-A simple PHP/PDO script to upload a CSV file to an existing MySQL database table.
+# PHP-CSV-to-MySQL-Importer
+A simple PHP/PDO script to import a CSV file to an existing MySQL database table.
 
 ## Usage
 * Prepare your database
